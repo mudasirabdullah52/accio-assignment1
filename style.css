@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    /* list-style: none; */
+}
+
+body {
+    background: #FFFFFF;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 77px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 30px;
+    padding-top: 30px;
+    color: #000000;
+}
+
+span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.top-section {
+    width: 98%;
+    margin: 20px;
+
+}
+
+a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    padding-top: 30px;
+    display: block;
+    color: #000000;
+    text-decoration: underline;
+}
+
+.middle {
+    width: 98%;
+    margin: 20px;
+}
+
+.middle img {
+    width: 800px;
+    height: 500px;
+}
+
+.bottom {
+    width: 98%;
+    margin: 20px;
+
+}
+
+.bottom ol {
+    margin-left: 20px;
+    /* padding: 40px; */
+}
+
+.bottom li {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5rem;
+    line-height: 30px;
+
+}
